@@ -1,9 +1,4 @@
-//
-//  LandmarksTests.swift
-//  LandmarksTests
-//
-//  Created by Student on 5/25/21.
-//
+
 
 import XCTest
 @testable import Landmarks
